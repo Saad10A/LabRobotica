@@ -1,0 +1,8 @@
+prefix=/home/overcorp/LabRobotica/devel
+
+Name: lab_robotica
+Description: Description of lab_robotica
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

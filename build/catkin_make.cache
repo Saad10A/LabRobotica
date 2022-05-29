@@ -1,0 +1,2 @@
+lab_robotica
+-DCATKIN_DEVEL_PREFIX=/home/overcorp/LabRobotica/devel -DCMAKE_INSTALL_PREFIX=/home/overcorp/LabRobotica/install -G Unix Makefiles
